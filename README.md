@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Jayson Sandhu! 👋  
+🚀 **Software Engineer | Cloud Enthusiast | Open Source Contributor**  
 
-<!--
-**jayson-s/Jayson-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Support Engineer at Apple** 🍏  
+🔹 **AWS Certified Cloud Solutions Architect** ☁️  
+🔹 **Full-Stack & Mobile App Developer**  
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack  
+💻 **Languages:** Java, C++, Python, JavaScript, Typescript  
+🛠 **Frameworks:** React, Node.js, Flutter  
+☁️ **Cloud:** AWS, Firebase  
+📚 **CS Fundamentals:** Data Structures & Algorithms, OOP, Databases  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📈 GitHub Stats  
+![Jayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayson-s&show_icons=true&theme=dark)  
+
+🌱 Currently mastering **Data Structures & Algorithms** for **Software Engineering interviews**.  
+💬 Ask me about **Cloud, Mobile App Dev, and DSA**.  
+📫 Reach out to me:  
+
+🔗 [Portfolio Website](https://www.jaysonsandhu.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jayson-sandhu)  
+🔗 [GitHub](https://github.com/jayson-s)  
+
+🔥 Let's connect and build something amazing! 🚀
