@@ -6,7 +6,7 @@
 ---
 
 ### 💡 About Me  
-- 🍏 **Support Engineer @ Apple**  
+- 🚀 **Support Engineer @ Apple** ![Apple](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 - ☁️ **AWS Certified Cloud Solutions Architect**  
 - 📱 **Full-Stack & Cloud Developer** (Ex-IBM)  
 - 📖 **5+ years of experience in software development & technical support**  
@@ -15,21 +15,31 @@
 ---
 
 ### 🛠 Tech Stack  
-**💻 Languages:**  
-`Java` `C++` `Python` `TypeScript` `JavaScript` `HTML` `CSS`  
+#### **Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**⚙️ Frameworks & Tools:**  
-`React` `Node.js` `Flutter` `Next.js` `TensorFlow`  
+#### **Frameworks & Tools**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-**☁️ Cloud & DevOps:**  
-`AWS` `Terraform` `Docker` `Firebase` `Kubernetes` `GitHub Actions`  
+#### **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats  
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayson-s&show_icons=true&theme=radical&count_private=true" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayson-s&layout=compact&theme=radical" height="200px"/>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayson-s&show_icons=true&theme=radical&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayson-s&layout=compact&theme=radical" height="180px"/>
 </div>
 
 ---
