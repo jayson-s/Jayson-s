@@ -2,11 +2,12 @@
 <p align="center">
 🚀 Software Engineer | Cloud Enthusiast | Open Source Contributor  
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=jayson-s&color=blue&style=flat)
 
 ---
 
 ### 💡 About Me  
-- 🚀 **Support Engineer @ Apple ** 🍎
+- 🚀 **Support Engineer @ Apple** 🍎
 - ☁️ **AWS Certified Cloud Solutions Architect**  
 - 📱 **Full-Stack & Cloud Developer** (Ex-IBM)  
 - 📖 **5+ years of experience in software development & technical support**  
