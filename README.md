@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Jayson Sandhu! 👋</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=jayson-s&color=blue&style=flat)
 <p align="center">
 🚀 Software Engineer | Cloud Enthusiast | Open Source Contributor  
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=jayson-s&color=blue&style=flat)
 
 ---
 
