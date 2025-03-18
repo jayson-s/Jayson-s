@@ -6,7 +6,7 @@
 ---
 
 ### 💡 About Me  
-- 🚀 **Support Engineer @ Apple** ![Apple](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+- 🚀 **Support Engineer @ Apple** ![Apple](https://media.giphy.com/media/Jm5y0FvSrSu7D6kgHC/giphy.gif)
 - ☁️ **AWS Certified Cloud Solutions Architect**  
 - 📱 **Full-Stack & Cloud Developer** (Ex-IBM)  
 - 📖 **5+ years of experience in software development & technical support**  
@@ -37,7 +37,7 @@
 ---
 
 ### 📊 GitHub Stats  
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="left" style="display: flex; justify-content: center; align-items: center; gap: 10; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=jayson-s&show_icons=true&theme=radical&count_private=true" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayson-s&layout=compact&theme=radical" height="180px"/>
 </div>
