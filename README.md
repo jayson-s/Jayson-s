@@ -6,13 +6,12 @@
 ---
 
 ### 💡 About Me  
-- 🚀 **Support Engineer @ Apple** <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="20px">
+- 🚀 **Support Engineer @ Apple 🍎 ** 
 - ☁️ **AWS Certified Cloud Solutions Architect**  
 - 📱 **Full-Stack & Cloud Developer** (Ex-IBM)  
 - 📖 **5+ years of experience in software development & technical support**  
 - 🎯 **Passionate about building scalable, AI-driven, and cloud-native applications**  
 
----
 
 ### 🛠 Tech Stack  
 #### **Languages**  
