@@ -16,6 +16,8 @@
 ### 📈 GitHub Stats  
 ![Jayson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayson-s&show_icons=true&theme=dark&count_private=true)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jayson-s&layout=compact&theme=dark)
+
 🌱 Currently mastering **Data Structures & Algorithms** for **Software Engineering interviews**.  
 💬 Ask me about **Cloud, Mobile App Dev, and DSA**.  
 📫 Reach out to me:  
