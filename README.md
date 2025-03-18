@@ -28,7 +28,7 @@
 
 ### 📊 GitHub Stats  
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayson-s&show_icons=true&theme=radical&count_private=true" height="200px" style=margin-right: 20px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jayson-s&show_icons=true&theme=radical&count_private=true" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayson-s&layout=compact&theme=radical" height="200px"/>
 </div>
 
