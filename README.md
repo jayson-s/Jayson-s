@@ -38,7 +38,7 @@
 
 ### 📊 Top Languages  
 <div align="left" style="display: flex; justify-content: center; align-items: center; gap: 10; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayson-s&theme=radical" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayson-s&theme=radical" height="300px"/>
 </div>
 
 ---
