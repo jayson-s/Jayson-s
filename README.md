@@ -47,30 +47,7 @@
 🚀 **[LifeBalance+](https://github.com/jayson-s/LifeBalancePlus)** - AI-powered all-in-one health tracking app  
 🌎 **[Portfolio](https://github.com/jayson-s/portfolio)** - My modern personal website  
 💰 **[RealEstatePrediction](https://github.com/jayson-s/RealEstatePrediction)** - ML-based property price predictor  
-🏦 **[BankingSystem](https://github.com/jayson-s/BankingSystem)** - C++ Banking System Simulation  
-
----
-
-### 📜 Work Experience  
-#### **Support Engineer | Apple (Aug 2021 - Present)**  
-- Provided **technical solutions**, maintaining a **90%+ customer satisfaction score**  
-- **Automated internal workflows**, improving troubleshooting efficiency  
-- Ranked **top 10%** of support performers, consistently exceeding KPIs  
-- Diagnosed **100+ complex technical issues weekly**, reducing escalations  
-
-#### **Cloud Developer | IBM (Sep 2019 - Dec 2019)**  
-- **Optimized cloud-native applications** on IBM Cloud & AWS  
-- Automated **CI/CD pipelines**, reducing deployment time  
-- Improved **API response times by 20%**, enhancing performance  
-
-#### **AI Developer | IBM (May 2019 - Aug 2019)**  
-- Developed AI models for **autonomous flight** (92% detection accuracy)  
-- Integrated AI pipelines with **real-time sensor data processing**  
-
----
-
-### 🎓 Education  
-🎓 **Bachelor of Science (Honours), Computer Science** | Ontario Tech University (2024)  
+🏦 **[BankingSystem](https://github.com/jayson-s/BankingSystem)** - C++ Banking System Simulation
 
 ---
 
