@@ -6,9 +6,9 @@
 ---
 
 ### 💡 About Me  
-- 🚀 **Support Engineer @ Apple** 🍎
+- 🚀 **Technical Expert @ Apple** 🍎
 - ☁️ **AWS Certified Cloud Solutions Architect**  
-- 📱 **Full-Stack & Cloud Developer** (Ex-IBM)  
+- 📱 **Software Developer & Open-Source Contributor** (IBM Developer Program)  
 - 📖 **5+ years of experience in software development & technical support**  
 - 🎯 **Passionate about building scalable, AI-driven, and cloud-native applications**  
 
