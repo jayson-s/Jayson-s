@@ -1,61 +1,85 @@
-<h1 align="center">Hey, I'm Jayson Sandhu! 👋</h1>
-<p align="center">
-🚀 Software Engineer | Cloud Enthusiast | Open Source Contributor  
-</p>
+<div align="center">
 
----
+# Hey, I'm Jayson 👋
 
-### 💡 About Me  
-- 🚀 **Technical Expert @ Apple** 🍎
-- ☁️ **AWS Certified Cloud Solutions Architect**  
-- 📱 **Software Developer & Open-Source Contributor** (IBM Developer Program)  
-- 📖 **5+ years of experience in software development & technical support**  
-- 🎯 **Passionate about building scalable, AI-driven, and cloud-native applications**  
+**Product Support Engineer · AWS SAA · CKAD**
 
+I build things, break things intentionally to understand them, and fix things other people can't figure out.
 
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white)](https://www.jaysonsandhu.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayson-sandhu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jayson@jaysonsandhu.com)
 
-### 🛠 Tech Stack  
-#### **Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### **Frameworks & Tools**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-#### **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-
----
-
-### 📊 Top Languages  
-<div align="left" style="display: flex; justify-content: center; align-items: center; gap: 10; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayson-s&theme=radical" height="300px"/>
 </div>
 
 ---
 
-### 📌 Featured Projects  
-🚀 **[LifeBalance+](https://github.com/jayson-s/LifeBalancePlus)** - AI-powered all-in-one health tracking app  
-🌎 **[Portfolio](https://github.com/jayson-s/portfolio)** - My modern personal website  
-💰 **[RealEstatePrediction](https://github.com/jayson-s/RealEstatePrediction)** - ML-based property price predictor  
-🏦 **[BankingSystem](https://github.com/jayson-s/BankingSystem)** - C++ Banking System Simulation
+### What I'm working on
+
+- 🔧 &nbsp;Deepening expertise in **platform reliability** and **SRE practices**
+- ☁️ &nbsp;Expanding cloud-native skills — currently exploring **observability & distributed tracing**
+- 📚 &nbsp;Working through **system design** patterns and distributed systems concepts
+- 🏏 &nbsp;18 years of competitive cricket — player turned mentor
 
 ---
 
-### 🔗 Let's Connect  
-📜 **Portfolio:** [jaysonsandhu.com](https://www.jaysonsandhu.com)  
-💼 **LinkedIn:** [linkedin.com/in/jayson-sandhu](https://www.linkedin.com/in/jayson-sandhu)  
-📧 **Email:** jayson@jaysonsandhu.com  
+### Tech I reach for
+
+```python
+stack = {
+    "languages":   ["Python", "SQL", "Java", "C++", "TypeScript", "Bash"],
+    "cloud":       ["AWS (EC2, S3, Lambda, DynamoDB)", "Docker", "Kubernetes"],
+    "frontend":    ["Next.js", "React", "Node.js", "Tailwind CSS"],
+    "databases":   ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
+    "tooling":     ["Git", "Postman", "Jira", "Salesforce", "Linux"],
+    "certs":       ["AWS Solutions Architect – Associate", "CKAD"],
+}
+```
 
 ---
 
-✨ _Let's connect and build something amazing!_ 🚀
+### GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jayson-s&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayson-s&theme=github_dark&layout=compact&hide_border=true&langs_count=6" height="160"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jayson-s&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+### Pinned projects
+
+| Repo | What it does | Why it's interesting |
+|------|-------------|----------------------|
+| [othello](https://github.com/jayson-s/othello) | Othello AI in Java | Minimax with alpha-beta pruning — full game tree search |
+| [RealEstatePrediction](https://github.com/jayson-s/RealEstatePrediction) | Housing price ML model | End-to-end pipeline: EDA → feature engineering → prediction |
+| [LifeBalancePlus](https://github.com/jayson-s/LifeBalancePlus) | Cross-platform wellness app | Flutter + Firebase, shipped on iOS & Android |
+| [Banking-System](https://github.com/jayson-s/Banking-System) | Banking simulation in C++ | OOP-heavy, focuses on data integrity and secure transactions |
+| [jayson-portfolio](https://github.com/jayson-s/jayson-portfolio) | This portfolio site | Next.js 14, deployed on Vercel |
+
+---
+
+### How I think about problems
+
+I came up through Apple support before moving into SaaS engineering. That background means I don't just fix symptoms — I dig until I find the root cause, document it properly, and figure out why the system allowed it in the first place.
+
+Most of my side projects are attempts to build things I've seen done badly at work, or to understand infrastructure decisions well enough to have an opinion about them.
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=jayson-s&color=0A66C2&style=flat-square&label=profile+views)
+
+*Open to interesting problems. Always learning.*
+
+</div>
