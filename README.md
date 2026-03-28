@@ -2,7 +2,7 @@
 
 # Hey, I'm Jayson 👋
 
-**Product Support Engineer · AWS SAA · CKAD**
+**Product Support Engineer · AWS Solutions Architect**
 
 I build things, break things intentionally to understand them, and fix things other people can't figure out.
 
@@ -14,15 +14,6 @@ I build things, break things intentionally to understand them, and fix things ot
 
 ---
 
-### What I'm working on
-
-- 🔧 &nbsp;Deepening expertise in **platform reliability** and **SRE practices**
-- ☁️ &nbsp;Expanding cloud-native skills — currently exploring **observability & distributed tracing**
-- 📚 &nbsp;Working through **system design** patterns and distributed systems concepts
-- 🏏 &nbsp;18 years of competitive cricket — player turned mentor
-
----
-
 ### Tech I reach for
 
 ```python
@@ -30,9 +21,8 @@ stack = {
     "languages":   ["Python", "SQL", "Java", "C++", "TypeScript", "Bash"],
     "cloud":       ["AWS (EC2, S3, Lambda, DynamoDB)", "Docker", "Kubernetes"],
     "frontend":    ["Next.js", "React", "Node.js", "Tailwind CSS"],
-    "databases":   ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
-    "tooling":     ["Git", "Postman", "Jira", "Salesforce", "Linux"],
-    "certs":       ["AWS Solutions Architect – Associate", "CKAD"],
+    "databases":   ["PostgreSQL", "Firebase"],
+    "tooling":     ["Git", "Postman", "Jira", "Linux"],
 }
 ```
 
@@ -41,17 +31,13 @@ stack = {
 ### GitHub activity
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=jayson-s&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
 &nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayson-s&theme=github_dark&layout=compact&hide_border=true&langs_count=6" height="160"/>
-
 </div>
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayson-s&theme=github-compact&hide_border=true&area=true" width="100%"/>
-
 </div>
 
 ---
@@ -64,7 +50,7 @@ stack = {
 | [RealEstatePrediction](https://github.com/jayson-s/RealEstatePrediction) | Housing price ML model | End-to-end pipeline: EDA → feature engineering → prediction |
 | [LifeBalancePlus](https://github.com/jayson-s/LifeBalancePlus) | Cross-platform wellness app | Flutter + Firebase, shipped on iOS & Android |
 | [Banking-System](https://github.com/jayson-s/Banking-System) | Banking simulation in C++ | OOP-heavy, focuses on data integrity and secure transactions |
-| [jayson-portfolio](https://github.com/jayson-s/jayson-portfolio) | This portfolio site | Next.js 14, deployed on Vercel |
+| [jayson-portfolio](https://github.com/jayson-s/jayson-portfolio) | Personal portfolio site | Next.js 14, deployed on Vercel |
 
 ---
 
