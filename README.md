@@ -58,7 +58,7 @@ stack = {
 
 I came up through Apple support before moving into SaaS engineering. That background means I don't just fix symptoms — I dig until I find the root cause, document it properly, and figure out why the system allowed it in the first place.
 
-Most of my side projects are attempts to build things I've seen done badly at work, or to understand infrastructure decisions well enough to have an opinion about them.
+Most of my side projects are attempts to build things I've seen, but would like to make them better, or to understand infrastructure decisions well enough to have an opinion about them.
 
 ---
 
