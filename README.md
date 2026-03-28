@@ -50,7 +50,7 @@ stack = {
 | [RealEstatePrediction](https://github.com/jayson-s/RealEstatePrediction) | Housing price ML model | End-to-end pipeline: EDA → feature engineering → prediction |
 | [LifeBalancePlus](https://github.com/jayson-s/LifeBalancePlus) | Cross-platform wellness app | Flutter + Firebase, shipped on iOS & Android |
 | [Banking-System](https://github.com/jayson-s/Banking-System) | Banking simulation in C++ | OOP-heavy, focuses on data integrity and secure transactions |
-| [jayson-portfolio](https://github.com/jayson-s/jayson-portfolio) | Personal portfolio site | Next.js 14, deployed on Vercel |
+| [jayson-portfolio](https://github.com/jayson-s/portfolio) | Personal portfolio site | Next.js 14, deployed on Vercel |
 
 ---
 
