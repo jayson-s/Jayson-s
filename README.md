@@ -2,7 +2,7 @@
 
 # Hey, I'm Jayson 👋
 
-**Product Support Engineer · AWS Solutions Architect**
+**Software Engineer · AWS Solutions Architect**
 
 I build things, break things intentionally to understand them, and fix things other people can't figure out.
 
